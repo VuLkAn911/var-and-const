@@ -40,7 +40,7 @@ func main() {
 	const breakTime = 15
 	fmt.Println(breakTime)
 
-	breaktime = 20
+	breakTime = 20
 
 	// Константу нельзя изменять
 
